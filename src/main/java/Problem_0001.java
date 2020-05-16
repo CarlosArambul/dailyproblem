@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Problem_0001 {
+public final class Problem_0001 {
 
     public static final int MINIMUM_NUMBERS = 2;
 
